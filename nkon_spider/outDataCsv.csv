@@ -1,0 +1,180 @@
+Brand,WeightGm,Price,Bulk Prices,LC KwH,debug,Voltage,CapacityLabelText,Capacity,MinCapacity_mAh,chemistry,Size,Battery Type,
+**,68,1.5,No Bulk price,86805.56,0,3.6V,Typ. capacity - mAh,4800,4750,Li-ion,21700,Flat top,€86.81
+Envision,5500,111.95,4 @ 109.35  8 @ 107.35  16 @ 105.35 ,107940.57,3,3.2V,Capacity - Ah,305,Not found,LIFEPO4,no Size,notFound,€107.94
+Envision,5450,102.95,4 @ 101.05  8 @ 99.05  16 @ 97.05 ,108314.73,3,3.2V,Capacity - Ah,280,Not found,LIFEPO4,no Size,notFound,€108.31
+Samsung,63,1.7,50 @ 1.60  130 @ 1.40  390 @ 1.30 ,110431.53,3,3.6V,Typ. capacity - mAh,3270,3220,Li-ion,21700,tag,€110.43
+EVE,5490,115.95,8 @ 113.95  16 @ 111.95  32 @ 109.95 ,113024.26,3,3.2V,Capacity - Ah,304,Not found,LIFEPO4,no Size,notFound,€113.02
+EVE,5450,109.95,4 @ 108.95  8 @ 107.95  16 @ 105.95  32 @ 103.95  64 @ 102.95 ,114899.55,5,3.2V,Capacity - Ah,280,Not found,LIFEPO4,no Size,notFound,€114.90
+EVE,1980,39.95,8 @ 39.45  16 @ 39.25  32 @ 38.75 ,115327.38,3,3.2V,Capacity - Ah,105,Not found,LIFEPO4,no Size,notFound,€115.33
+EVE,5490,123.45,4 @ 122.25  8 @ 120.75  16 @ 118.45  32 @ 116.25 ,119500.41,4,3.2V,Capacity - Ah,304,Not found,LIFEPO4,no Size,notFound,€119.50
+Catl,5340,119.95,4 @ 116.55  8 @ 113.95  16 @ 111.65  32 @ 108.95 ,121595.98,4,3.2V,Capacity - Ah,280,Not found,LIFEPO4,no Size,notFound,€121.60
+Samsung,63,1.85,50 @ 1.75  130 @ 1.55  390 @ 1.45 ,123173.63,3,3.6V,Typ. capacity - mAh,3270,3220,Li-ion,21700,Z-tags,€123.17
+Samsung,63,1.85,50 @ 1.75  130 @ 1.55  390 @ 1.45 ,123173.63,3,3.6V,Typ. capacity - mAh,3270,3220,Li-ion,21700,U-tags,€123.17
+Calb,4170,97.45,4 @ 96.05  8 @ 94.05  16 @ 92.05  32 @ 91.05 ,123709.24,4,3.2V,Capacity - Ah,230,Not found,LIFEPO4,no Size,notFound,€123.71
+Lishen,5300,118.95,8 @ 112.95  16 @ 110.95 ,123828.12,2,3.2V,Capacity - Ah,280,Not found,LIFEPO4,no Size,notFound,€123.83
+REPT,5400,119.95,4 @ 118.85  8 @ 116.85  16 @ 114.85  32 @ 112.85 ,125948.66,4,3.2V,Capacity - Ah,280,Not found,LIFEPO4,no Size,notFound,€125.95
+EVE,5350,119.95,4 @ 118.95  8 @ 117.95  32 @ 112.95 ,126060.27,3,3.2V,Capacity - Ah,280,Not found,LIFEPO4,no Size,notFound,€126.06
+EVE,4110,99.95,4 @ 98.95  8 @ 97.95  16 @ 96.95  32 @ 95.95  64 @ 94.95 ,129008.15,5,3.2V,Capacity - Ah,230,Not found,LIFEPO4,no Size,notFound,€129.01
+EVE,5420,122.95,8 @ 120.05  16 @ 119.75  32 @ 117.75  64 @ 115.65 ,129073.66,4,3.2V,Capacity - Ah,280,Not found,LIFEPO4,no Size,notFound,€129.07
+Catl,3190,76.95,4 @ 74.95  8 @ 73.95  16 @ 72.95 ,131773.84,3,3.2V,Capacity - Ah,173,Not found,LIFEPO4,no Size,notFound,€131.77
+**,70,2.39,260 @ 2.29 ,132523.15,1,3.6V,Typ. capacity - mAh,4800,4750,Li-ion,21700,Flat top,€132.52
+Calb,2340,58.45,4 @ 57.05  8 @ 56.75  16 @ 54.95  32 @ 55.95  64 @ 55.45 ,133293.27,5,3.2V,Capacity - Ah,130,Not found,LIFEPO4,no Size,notFound,€133.29
+Catl,4220,108.95,4 @ 105.95  8 @ 103.75  16 @ 100.45  32 @ 97.45 ,133566.34,4,3.2V,Capacity - Ah,228,Not found,LIFEPO4,no Size,notFound,€133.57
+Calb,5450,128.95,4 @ 126.95  8 @ 125.95  16 @ 123.95  32 @ 121.95  64 @ 119.95 ,133872.77,5,3.2V,Capacity - Ah,280,Not found,LIFEPO4,no Size,notFound,€133.87
+Calb,2450,55.95,4 @ 55.55  8 @ 55.25  16 @ 54.95  64 @ 53.95 ,134875,4,3.2V,Capacity - Ah,125,Not found,LIFEPO4,no Size,notFound,€134.88
+Gotion,1640,40.95,4 @ 40.25  8 @ 39.75  16 @ 38.95  32 @ 38.25 ,137392.24,4,3.2V,Capacity - Ah,87,Not found,LIFEPO4,no Size,notFound,€137.39
+Lishen,68,2.35,10 @ 2.24  40 @ 2.15  130 @ 2.09  390 @ 1.99 ,138194.44,4,3.6V,Typ. capacity - mAh,4000,3900,Li-ion,21700,Flat top,€138.19
+Calb,3470,86.95,4 @ 85.95  8 @ 84.95 ,141961.9,2,3.2V,Capacity - Ah,187,Not found,LIFEPO4,no Size,notFound,€141.96
+Catl,5510,144.95,4 @ 142.05  8 @ 140.05  16 @ 138.05 ,142849.75,3,3.2V,Capacity - Ah,302,Not found,LIFEPO4,no Size,notFound,€142.85
+Samsung,48,2.19,30 @ 1.96  100 @ 1.88  200 @ 1.78  400 @ 1.70  600 @ 1.65 ,143229.17,5,3.6V,Typ. capacity - mAh,3200,3100,Li-ion,18650,Flat top,€143.23
+Topband,422,9.75,8 @ 9.55  16 @ 9.25 ,144531.25,2,3.2V,Capacity - Ah,20,Not found,LIFEPO4,no Size,notFound,€144.53
+Topband,300,7.45,8 @ 7.25  16 @ 6.99 ,145625,2,3.2V,Capacity - Ah,15,Not found,LIFEPO4,no Size,notFound,€145.63
+Calb,1620,45.95,4 @ 44.95  8 @ 43.95  16 @ 42.90 ,152343.75,3,3.2V,Capacity - Ah,88,Not found,LIFEPO4,no Size,notFound,€152.34
+EVE,374,11.95,10 @ 10.45  20 @ 9.99 ,156093.75,2,3.2V,Capacity - Ah,20,Not found,LIFEPO4,no Size,notFound,€156.09
+EVE,1980,54.95,32 @ 54.85 ,163244.05,1,3.2V,Capacity - Ah,105,Not found,LIFEPO4,no Size,notFound,€163.24
+Sanyo,68,2.65,20 @ 2.45  130 @ 2.15  390 @ 1.95 ,164141.41,3,3.6V,Typ. capacity - mAh,3300,3150,Li-ion,20700,Flat top,€164.14
+BYD,3450,71.95,4 @ 68.25  8 @ 67.95  16 @ 66.95  32 @ 65.95 ,164875,4,3.2V,Capacity - Ah,125,Not found,LIFEPO4,no Size,notFound,€164.88
+CBAK,300,8.45,10 @ 7.95 ,165625,1,3.2V,Capacity - Ah,15,Not found,LIFEPO4,no Size,notFound,€165.63
+Tenpower,47,2.35,10 @ 2.15  100 @ 2.05  400 @ 1.95  600 @ 1.88 ,168458.78,4,3.6V,Typ. capacity - mAh,3100,3050,Li-ion,18650,Flat top,€168.46
+Samsung,75,3.75,10 @ 3.40  50 @ 3.20  130 @ 3.05  390 @ 2.95 ,168957.62,4,3.6V,Typ. capacity - mAh,4850,4800,Li-ion,21700,Flat top,€168.96
+Real cell,85,2.15,10 @ 2.05  200 @ 1.95  600 @ 1.85 ,170036.76,3,3.2V,Typ. capacity - mAh,3400,3350,LIFEPO4,26650,Flat top,€170.04
+Samsung,68,2.25,30 @ 2.00  100 @ 1.93  400 @ 1.85 ,171296.3,3,3.6V,Typ. capacity - mAh,3000,2950,Li-ion,21700,"Reclaimed, Flat top",€171.30
+DMEGC,45,2.15,10 @ 1.94  100 @ 1.89  200 @ 1.84  600 @ 1.79 ,171455.94,4,3.6V,Typ. capacity - mAh,2900,2750,Li-ion,18650,Flat top,€171.46
+**,48,2.35,10 @ 2.34  100 @ 2.19  200 @ 2.14  600 @ 1.99 ,172743.06,4,3.6V,Typ. capacity - mAh,3200,3100,Li-ion,18650,Flat top,€172.74
+Tenpower,68,3.99,10 @ 3.85  130 @ 3.45  260 @ 3.25  390 @ 3.15 ,175000,4,3.6V,Typ. capacity - mAh,5000,4950,Li-ion,21700,Flat top,€175.00
+BAK,48,2.65,20 @ 2.45  40 @ 2.22  100 @ 2.02  200 @ 1.92  600 @ 1.87 ,179118.77,5,3.6V,Typ. capacity - mAh,2900,2800,Li-ion,18650,Flat top,€179.12
+**,48,2.65,40 @ 2.25  100 @ 2.01  200 @ 1.91  600 @ 1.85 ,180311.89,4,3.6V,Typ. capacity - mAh,2850,2750,Li-ion,18650,Flat top,€180.31
+Tenpower,46,2.75,10 @ 2.18  100 @ 1.97  200 @ 1.87  600 @ 1.82 ,180555.56,4,3.6V,Typ. capacity - mAh,2800,2760,Li-ion,18650,Flat top,€180.56
+Sinowatt,49,2.49,10 @ 2.39  100 @ 2.29  200 @ 2.19 ,181592.04,3,3.6V,Typ. capacity - mAh,3350,3250,Li-ion,18650,Flat top,€181.59
+Samsung,69,3.85,30 @ 3.75  130 @ 3.45  260 @ 3.25  390 @ 3.15 ,182291.67,4,3.6V,Typ. capacity - mAh,4800,4650,Li-ion,21700,Flat top,€182.29
+BAK,69,3.89,10 @ 3.79  100 @ 3.64  200 @ 3.44  600 @ 3.29 ,182777.78,4,3.6V,Typ. capacity - mAh,5000,4900,Li-ion,21700,Flat top,€182.78
+Sanyo,60,3.45,25 @ 2.85  125 @ 2.55  250 @ 2.39 ,183394.72,3,3.6V,Typ. capacity - mAh,3620,3500,Li-ion,20700,Flat top,€183.39
+Sanyo,46,2.15,30 @ 1.97  180 @ 1.87  360 @ 1.77  540 @ 1.67 ,187809.27,4,3.6V,Typ. capacity - mAh,2470,2420,Li-ion,18650,Flat top,€187.81
+Samsung,49,2.95,50 @ 2.75  100 @ 2.65  200 @ 2.45  400 @ 2.35  600 @ 2.30 ,187908.5,5,3.6V,Typ. capacity - mAh,3400,3350,Li-ion,18650,"Reclaimed, Flat top",€187.91
+EVE,45,2.59,40 @ 2.35  100 @ 2.10  200 @ 2.00  600 @ 1.91 ,189484.13,4,3.6V,Typ. capacity - mAh,2800,2850,Li-ion,18650,Flat top,€189.48
+Samsung,45,2.25,100 @ 2.15  200 @ 2.05  600 @ 1.95 ,190058.48,3,3.6V,Typ. capacity - mAh,2850,2750,Li-ion,18650,Flat top,€190.06
+Lishen,42,1.65,10 @ 1.55  100 @ 1.45  200 @ 1.39 ,193055.56,3,3.6V,Typ. capacity - mAh,2000,1900,Li-ion,18650,Flat top,€193.06
+EVE,1395,33.95,4 @ 33.55  8 @ 32.55  16 @ 31.10 ,194375,3,3.2V,Capacity - Ah,50,Not found,LIFEPO4,no Size,notFound,€194.38
+**,72,4.65,10 @ 4.25  50 @ 4.05  100 @ 3.95 ,196987.83,3,3.6V,Typ. capacity - mAh,5570,5520,Li-ion,21700,"Reclaimed, Flat top",€196.99
+Samsung,40,1.75,10 @ 1.55  100 @ 1.45 ,201388.89,2,3.6V,Typ. capacity - mAh,2000,1950,Li-ion,18650,Flat top,€201.39
+**,45,2.49,30 @ 2.20  100 @ 2.10  200 @ 2.00  600 @ 1.85 ,205555.56,4,3.6V,Typ. capacity - mAh,2500,2450,Li-ion,18650,Flat top,€205.56
+Tenpower,45,1.99,10 @ 1.84  100 @ 1.74  200 @ 1.64  400 @ 1.54  600 @ 1.49 ,206944.44,5,3.6V,Typ. capacity - mAh,2000,1950,Li-ion,18650,Flat top,€206.94
+JGNE,87,3.15,10 @ 2.99  100 @ 2.86  200 @ 2.75  400 @ 2.65 ,207031.25,4,3.2V,Typ. capacity - mAh,4000,3950,LIFEPO4,26650,Flat top,€207.03
+Samsung,43,1.75,10 @ 1.70  100 @ 1.60  200 @ 1.54  600 @ 1.50 ,208333.33,4,3.6V,Typ. capacity - mAh,2000,1950,Li-ion,18650,"Reclaimed, Flat top",€208.33
+JGNE,88,2.99,10 @ 2.85  100 @ 2.75  200 @ 2.65  600 @ 2.55 ,209703.95,4,3.2V,Typ. capacity - mAh,3800,3750,LIFEPO4,26650,Flat top,€209.70
+**,48,3.25,10 @ 3.05  35 @ 2.75  200 @ 2.55  600 @ 2.45 ,212673.61,4,3.6V,Typ. capacity - mAh,3200,3100,Li-ion,18650,Flat top,€212.67
+Samsung,48,2.45,No Bulk price,212673.61,0,3.6V,Typ. capacity - mAh,3200,3100,Li-ion,18650,Flat top,€212.67
+BAK,48,2.99,100 @ 2.83  400 @ 2.68  600 @ 2.58 ,213930.35,3,3.6V,Typ. capacity - mAh,3350,3250,Li-ion,18650,Flat top,€213.93
+Molicel,48,3.45,30 @ 3.20  100 @ 3.00  200 @ 2.80  600 @ 2.70 ,214285.71,4,3.6V,Typ. capacity - mAh,3500,3350,Li-ion,18650,Flat top,€214.29
+EVE,45,2.29,10 @ 2.09  100 @ 1.99  200 @ 1.89 ,214285.71,3,3.6V,Typ. capacity - mAh,2450,2500,Li-ion,18650,Flat top,€214.29
+Sanyo,68,2.95,130 @ 2.75  390 @ 2.55 ,214646.46,2,3.6V,Typ. capacity - mAh,3300,3150,Li-ion,20700,Flat top,€214.65
+Samsung,44,2.25,10 @ 2.10  100 @ 1.95 ,216666.67,2,3.6V,Typ. capacity - mAh,2500,2450,Li-ion,18650,Flat top,€216.67
+JGNE,87,3.49,10 @ 3.05  100 @ 2.85  200 @ 2.65  400 @ 2.50 ,217013.89,4,3.2V,Typ. capacity - mAh,3600,3550,LIFEPO4,26650,Flat top,€217.01
+Samsung,69,2.99,30 @ 2.75  130 @ 2.65  260 @ 2.45  520 @ 2.35 ,217592.59,4,3.6V,Typ. capacity - mAh,3000,2950,Li-ion,21700,Flat top,€217.59
+JGNE,42,1.69,10 @ 1.57  100 @ 1.46  200 @ 1.36  600 @ 1.26 ,218750,4,3.2V,Typ. capacity - mAh,1800,1700,LIFEPO4,18650,Flat top,€218.75
+JGNE,46,1.49,10 @ 1.39  100 @ 1.29  200 @ 1.22  600 @ 1.14 ,222656.25,4,3.2V,Typ. capacity - mAh,1600,1500,LIFEPO4,18650,Flat top,€222.66
+EVE,750,24.99,4 @ 24.50  8 @ 23.90  16 @ 23.50  32 @ 22.90 ,223632.81,4,3.2V,Capacity - Ah,32,Not found,LIFEPO4,no Size,notFound,€223.63
+Samsung,48,2.85,10 @ 2.75  100 @ 2.65  400 @ 2.63  600 @ 2.58 ,227513.23,4,3.6V,Typ. capacity - mAh,3150,3000,Li-ion,18650,notFound,€227.51
+Samsung,46,2.99,10 @ 2.95  20 @ 2.85  50 @ 2.75  100 @ 2.65  200 @ 2.55 ,236111.11,5,3.6V,Typ. capacity - mAh,3000,2950,Li-ion,18650,"Reclaimed, Flat top",€236.11
+EVE,1395,37.99,No Bulk price,237437.5,0,3.2V,Capacity - Ah,50,Not found,LIFEPO4,no Size,notFound,€237.44
+Sinowatt,49,3.25,30 @ 3.20  100 @ 3.00  200 @ 2.85  600 @ 2.65 ,245370.37,4,3.6V,Typ. capacity - mAh,3000,2900,Li-ion,18650,Flat top,€245.37
+Tenpower,47,2.85,10 @ 2.61  100 @ 2.51  200 @ 2.41  400 @ 2.31  600 @ 2.21 ,245555.56,5,3.6V,Typ. capacity - mAh,2500,2450,Li-ion,18650,Flat top,€245.56
+Samsung,48,3.85,30 @ 3.25  100 @ 3.05  200 @ 3.00  400 @ 2.90  600 @ 2.85 ,247395.83,5,3.6V,Typ. capacity - mAh,3200,3100,Li-ion,18650,Flat top,€247.40
+Panasonic,49,3.55,10 @ 3.20  30 @ 3.10  180 @ 2.95  540 @ 2.85 ,248951.78,4,3.6V,Typ. capacity - mAh,3180,3030,Li-ion,18650,Flat top,€248.95
+Samsung,46,2.85,10 @ 2.75  100 @ 2.69 ,249074.07,2,3.6V,Typ. capacity - mAh,3000,2950,Li-ion,18650,Flat top,€249.07
+Sanyo,60,3.55,10 @ 3.45  50 @ 3.35  100 @ 3.25 ,249386.13,3,3.6V,Typ. capacity - mAh,3620,3500,Li-ion,20700,Flat top,€249.39
+Samsung,44,2.79,10 @ 2.66  40 @ 2.59  100 @ 2.49  200 @ 2.41  600 @ 2.34 ,250000,5,3.6V,Typ. capacity - mAh,2600,2550,Li-ion,18650,Flat top,€250.00
+Samsung,49,3.95,50 @ 3.75  100 @ 3.50  200 @ 3.30  600 @ 3.15 ,257352.94,4,3.6V,Typ. capacity - mAh,3400,3350,Li-ion,18650,Flat top,€257.35
+Sanyo,48,4.35,30 @ 3.40  165 @ 3.30  495 @ 3.15 ,261194.03,3,3.6V,Typ. capacity - mAh,3350,3300,Li-ion,18650,Flat top,€261.19
+BAK,47,2.89,30 @ 2.70  100 @ 2.61  200 @ 2.50  600 @ 2.40 ,266666.67,4,3.6V,Typ. capacity - mAh,2500,2400,Li-ion,18650,Flat top,€266.67
+Panasonic,46,3.25,30 @ 3.09  60 @ 2.99  180 @ 2.89  540 @ 2.79 ,267241.38,4,3.6V,Typ. capacity - mAh,2900,2850,Li-ion,18650,Flat top,€267.24
+**,43,3.75,100 @ 3.53  200 @ 3.43  600 @ 3.33 ,276119.4,3,3.6V,Typ. capacity - mAh,3350,3250,Li-ion,18650,Flat top,€276.12
+**,49,3.99,10 @ 3.85  100 @ 3.70  200 @ 3.59  600 @ 3.45 ,277777.78,4,3.6V,Typ. capacity - mAh,3450,3400,Li-ion,18650,Flat top,€277.78
+Samsung,46,3.79,10 @ 3.64  50 @ 3.54  100 @ 3.44  200 @ 3.19  600 @ 3.09 ,286111.11,5,3.6V,Typ. capacity - mAh,3000,2950,Li-ion,18650,Flat top,€286.11
+EVE,628,21.95,4 @ 21.25  8 @ 20.75 ,294744.32,2,3.2V,Capacity - Ah,22,Not found,LIFEPO4,no Size,notFound,€294.74
+Sanyo,48,4.25,30 @ 4.03  180 @ 3.93  540 @ 3.78 ,304347.83,3,3.6V,Typ. capacity - mAh,3450,3350,Li-ion,18650,Flat top,€304.35
+Samsung,43,2.75,10 @ 2.59  100 @ 2.49  200 @ 2.39  600 @ 2.30 ,319444.44,4,3.6V,Typ. capacity - mAh,2000,1950,Li-ion,18650,notFound,€319.44
+**,73,6.79,10 @ 6.75  20 @ 6.55  50 @ 6.45 ,321663.67,3,3.6V,Typ. capacity - mAh,5570,5520,Li-ion,21700,Flat top,€321.66
+**,73,7.05,10 @ 6.65  20 @ 6.55  50 @ 6.45 ,321663.67,3,3.6V,Typ. capacity - mAh,5570,5520,Li-ion,21700,Flat top,€321.66
+Sony,46,2.99,10 @ 2.75  50 @ 2.85  300 @ 2.65  600 @ 2.45 ,324074.07,4,3.6V,Typ. capacity - mAh,2100,2000,Li-ion,18650,Flat top,€324.07
+JGNE,85,3.95,30 @ 3.75  100 @ 3.55  200 @ 3.35  600 @ 3.15 ,328125,4,3.2V,Typ. capacity - mAh,3000,2900,LIFEPO4,26650,Flat top,€328.13
+**,46,4.45,10 @ 4.15  100 @ 3.95  200 @ 3.75  600 @ 3.60 ,333333.33,4,3.6V,Typ. capacity - mAh,3000,2950,Li-ion,18650,Flat top,€333.33
+Sony / Murata,46,3.55,10 @ 3.45  50 @ 3.35  300 @ 3.25  600 @ 3.15 ,336538.46,4,3.6V,Typ. capacity - mAh,2600,2500,Li-ion,18650,Flat top,€336.54
+**,46,3.95,50 @ 3.35  100 @ 3.30  200 @ 3.20  600 @ 3.10 ,344444.44,4,3.6V,Typ. capacity - mAh,2500,2450,Li-ion,18650,Flat top,€344.44
+Sanyo,49,5.95,10 @ 5.55  180 @ 4.55  360 @ 4.29 ,345410.63,3,3.6V,Typ. capacity - mAh,3450,3350,Li-ion,18650,Button top,€345.41
+Samsung,69,4.15,130 @ 4.05  260 @ 3.95  390 @ 3.85 ,356481.48,3,3.6V,Typ. capacity - mAh,3000,2950,Li-ion,21700,Flat top,€356.48
+Sony,46,3.65,10 @ 3.60  50 @ 3.55  100 @ 3.45  300 @ 3.40  600 @ 3.35 ,357905.98,5,3.6V,Typ. capacity - mAh,2600,2500,Li-ion,18650,Flat top,€357.91
+Keeppower,102,7.5,No Bulk price,365497.08,0,3.6V,Typ. capacity - mAh,5700,5500,Li-ion,27700,Flat top,€365.50
+Sony / Murata,48,5.45,10 @ 5.25  50 @ 4.95  100 @ 4.65  200 @ 4.45  600 @ 4.35 ,387286.32,5,3.6V,Typ. capacity - mAh,3120,3000,Li-ion,18650,Flat top,€387.29
+Sony / Murata,73,6.55,10 @ 6.35  50 @ 6.15  100 @ 5.95  200 @ 5.75 ,389566.4,4,3.6V,Typ. capacity - mAh,4100,4000,Li-ion,21700,Flat top,€389.57
+Sony,48,4.25,10 @ 3.95  100 @ 3.85  300 @ 3.75  600 @ 3.65 ,389957.26,4,3.6V,Typ. capacity - mAh,2600,2500,Li-ion,18650,Flat top,€389.96
+Panasonic,46,5.15,30 @ 5.05  180 @ 4.95  540 @ 4.79 ,397180.76,3,3.6V,Typ. capacity - mAh,3350,3250,Li-ion,18650,Flat top,€397.18
+Samsung,45,4.39,10 @ 4.29  40 @ 4.24  100 @ 4.19  200 @ 4.14  600 @ 4.09 ,398635.48,5,3.6V,Typ. capacity - mAh,2850,2750,Li-ion,18650,Flat top,€398.64
+Molicel,46,4.99,10 @ 4.75  100 @ 4.35  200 @ 4.05  600 @ 3.95 ,406378.6,4,3.6V,Typ. capacity - mAh,2700,2800,Li-ion,18650,Flat top,€406.38
+Molicel,45,4.6,10 @ 4.25  100 @ 4.05  200 @ 3.95  600 @ 3.85 ,411324.79,4,3.6V,Typ. capacity - mAh,2600,2500,Li-ion,18650,Flat top,€411.32
+**,45,5.45,10 @ 4.99  50 @ 4.79  100 @ 4.69  200 @ 4.59  600 @ 4.49 ,415740.74,5,3.6V,Typ. capacity - mAh,3000,2950,Li-ion,18650,Flat top,€415.74
+Xtar,48,4.45,10 @ 3.95  20 @ 3.75 ,473484.85,2,3.6V,Typ. capacity - mAh,2200,2180,Li-ion,18650,Button top,€473.48
+Sanyo,50,5.95,No Bulk price,479066.02,0,3.6V,Typ. capacity - mAh,3450,3350,Li-ion,18650,Button top,€479.07
+Samsung,45,4.4,No Bulk price,488888.89,0,3.6V,Typ. capacity - mAh,2500,2450,Li-ion,18650,Flat top,€488.89
+**,49,6.45,10 @ 6.25 ,496031.75,1,3.6V,Typ. capacity - mAh,3500,3400,Li-ion,18650,Button top,€496.03
+Keeppower,30,6.55,10 @ 6.25  100 @ 5.95  200 @ 5.80 ,503472.22,3,3.6V,Typ. capacity - mAh,3200,3150,Li-ion,18650,Button top,€503.47
+Molicel,72,7.49,No Bulk price,520138.89,0,3.6V,Typ. capacity - mAh,4000,3950,Li-ion,21700,Button top,€520.14
+Samsung,42,3.45,40 @ 3.15  100 @ 2.95  200 @ 2.90  600 @ 2.85 ,527777.78,4,3.6V,Typ. capacity - mAh,1500,1450,Li-ion,18650,Flat top,€527.78
+Yinlong,1250,54.95,8 @ 49.95 ,542934.78,1,2.3V,Capacity - Ah,40,Not found,LTO,no Size,notFound,€542.93
+JGNE,40,2.25,10 @ 2.20  100 @ 2.15  200 @ 2.05  600 @ 1.95 ,553977.27,4,3.2V,Typ. capacity - mAh,1100,1050,LIFEPO4,18650,Flat top,€553.98
+Sony,47,4.75,10 @ 4.45  50 @ 4.25 ,562169.31,2,3.6V,Typ. capacity - mAh,2100,2000,Li-ion,18650,Button top,€562.17
+Samsung,44,4.75,20 @ 4.45 ,574935.4,1,3.6V,Typ. capacity - mAh,2150,2050,Li-ion,18650,Flat top,€574.94
+**,44,3.65,10 @ 3.45  100 @ 3.30 ,611111.11,2,3.6V,Typ. capacity - mAh,1500,1400,Li-ion,18650,Flat top,€611.11
+Sony,48,6.95,No Bulk price,618767.81,0,3.6V,Typ. capacity - mAh,3120,3000,Li-ion,18650,Button top,€618.77
+Xtar,51,7.95,10 @ 7.45  20 @ 7.25 ,619658.12,2,3.6V,Typ. capacity - mAh,3250,3300,Li-ion,18650,Button top,€619.66
+Samsung,47,6.95,10 @ 6.75 ,625000,1,3.6V,Typ. capacity - mAh,3000,2950,Li-ion,18650,Button top,€625.00
+Sony,47,5.95,No Bulk price,635683.76,0,3.6V,Typ. capacity - mAh,2600,2500,Li-ion,18650,Button top,€635.68
+Molicel,51,5.95,No Bulk price,661111.11,0,3.6V,Typ. capacity - mAh,2500,2600,Li-ion,18650,Button top,€661.11
+Xtar,47,6.95,10 @ 6.75  20 @ 6.45 ,689102.56,2,3.6V,Typ. capacity - mAh,2600,2550,Li-ion,18650,Button top,€689.10
+Samsung,48,6.95,10 @ 6.45 ,716666.67,1,3.6V,Typ. capacity - mAh,2500,2450,Li-ion,18650,Button top,€716.67
+Keeppower,70,13.45,10 @ 12.95 ,719444.44,1,3.6V,Typ. capacity - mAh,5000,4950,Li-ion,21700,Button top,€719.44
+Keeppower,55,9.45,10 @ 9.25  100 @ 7.75 ,742337.16,2,3.6V,Typ. capacity - mAh,2900,2850,Li-ion,18650,Button top,€742.34
+Keeppower,53,7.25,10 @ 6.95 ,742521.37,1,3.6V,Typ. capacity - mAh,2600,2550,Li-ion,18650,Button top,€742.52
+Keeppower,50,11.45,10 @ 10.45  90 @ 9.45 ,750000,2,3.6V,Typ. capacity - mAh,3500,3450,Li-ion,18650,Flat top,€750.00
+Nitecore,48,7.75,10 @ 7.45  200 @ 6.25 ,754830.92,2,3.6V,Typ. capacity - mAh,2300,2250,Li-ion,18650,Button top,€754.83
+Molicel,51,7.49,No Bulk price,770576.13,0,3.6V,Typ. capacity - mAh,2700,2800,Li-ion,18650,Button top,€770.58
+Everactive,92,8.95,No Bulk price,801971.33,0,3.6V,Typ. capacity - mAh,3100,3050,Li-ion,18650,"Button top, USB",€801.97
+Keeppower,48,10.95,10 @ 9.95 ,812908.5,1,3.6V,Typ. capacity - mAh,3400,3350,Li-ion,18650,Button top,€812.91
+Nitecore,48,9.95,No Bulk price,812908.5,0,3.6V,Typ. capacity - mAh,3400,3350,Li-ion,18650,"Button top, USB",€812.91
+Nitecore,73,17.95,10 @ 16.95  20 @ 16.45  60 @ 14.95 ,830555.56,3,3.6V,Typ. capacity - mAh,5000,4950,Li-ion,21700,Button top,€830.56
+Xtar,73,14.95,No Bulk price,830555.56,0,3.6V,Typ. capacity - mAh,5000,4950,Li-ion,21700,Button top,€830.56
+Lithium Werks (A123 systems),76,8.95,10 @ 8.45  50 @ 7.95  100 @ 7.75  200 @ 7.25 ,871394.23,4,3.2V,Typ. capacity - mAh,2600,2500,LIFEPO4,26650,Flat top,€871.39
+Keeppower,29,4.95,10 @ 4.45  100 @ 4.25  200 @ 3.95 ,914351.85,3,3.6V,Typ. capacity - mAh,1200,1150,Li-ion,17500,notFound,€914.35
+Keeppower,41,8.75,10 @ 8.45 ,938888.89,1,3.6V,Typ. capacity - mAh,2500,2450,Li-ion,16650,Button top,€938.89
+Sony,49,8.95,No Bulk price,956196.58,0,3.6V,Typ. capacity - mAh,2600,2500,Li-ion,18650,Button top,€956.20
+Xtar,51,13.95,10 @ 12.95  20 @ 12.45 ,988095.24,2,3.6V,Typ. capacity - mAh,3500,3450,Li-ion,18650,Button top,€988.10
+Keeppower,28,4.95,10 @ 4.75  100 @ 4.25  200 @ 3.95 ,997474.75,3,3.6V,Typ. capacity - mAh,1100,950,Li-ion,14650,notFound,€997.47
+Nitecore,50,11.45,10 @ 10.95  100 @ 9.45 ,1009615.38,2,3.6V,Typ. capacity - mAh,2600,2550,Li-ion,18650,Button top,"€1,009.62"
+Vapcell,25,4.45,10 @ 4.25 ,1026570.05,1,3.6V,Typ. capacity - mAh,1150,1100,Li-ion,18350,Flat top,"€1,026.57"
+Nitecore,48,14.95,10 @ 13.95  50 @ 12.95  100 @ 11.95 ,1037326.39,3,3.6V,Typ. capacity - mAh,3200,3150,Li-ion,18650,Button top,"€1,037.33"
+Keeppower,48,11.45,No Bulk price,1060185.19,0,3.6V,Typ. capacity - mAh,3000,2950,Li-ion,18650,Button top,"€1,060.19"
+EagleTac,48,14.95,10 @ 13.95 ,1107142.86,1,3.6V,Typ. capacity - mAh,3500,3450,Li-ion,18650,Button top,"€1,107.14"
+Nitecore,48,10.95,10 @ 10.45 ,1116452.99,1,3.6V,Typ. capacity - mAh,2600,2550,Li-ion,18650,"Button top, USB","€1,116.45"
+Nitecore,46,15.95,10 @ 14.95  60 @ 13.95 ,1139705.88,2,3.6V,Typ. capacity - mAh,3400,3350,Li-ion,18650,Button top,"€1,139.71"
+Nitecore,46,15.95,10 @ 14.95  100 @ 12.95 ,1160394.27,2,3.6V,Typ. capacity - mAh,3100,3050,Li-ion,18650,Button top,"€1,160.39"
+EagleTac,37,6.75,No Bulk price,1171875,0,3.6V,Typ. capacity - mAh,1600,1550,Li-ion,17650,Button top,"€1,171.88"
+Keeppower,25,5.75,10 @ 5.45  100 @ 5.25 ,1215277.78,2,3.6V,Typ. capacity - mAh,1200,1100,Li-ion,18350,Flat top,"€1,215.28"
+Keeppower,150,21.95,No Bulk price,1244331.07,0,3.6V,Typ. capacity - mAh,4900,4850,Li-ion,21700,"Button top, USB","€1,244.33"
+Nitecore,83,18.95,No Bulk price,1253306.88,0,3.6V,Typ. capacity - mAh,4200,4150,Li-ion,21700,"Button top, Low temperature, USB","€1,253.31"
+Nitecore,46,18.95,10 @ 17.95  100 @ 15.95 ,1265873.02,2,3.6V,Typ. capacity - mAh,3500,3450,Li-ion,18650,Button top,"€1,265.87"
+EagleTac,26,7.45,8 @ 7.25  80 @ 6.95  160 @ 6.25 ,1335470.09,3,3.6V,Typ. capacity - mAh,1300,1250,Li-ion,18350,Button top,"€1,335.47"
+Enercig,23,3.45,No Bulk price,1369047.62,0,3.6V,Typ. capacity - mAh,700,650,Li-ion,18350,Flat top,"€1,369.05"
+Keeppower,19,4.25,10 @ 3.95  100 @ 3.75  200 @ 3.45 ,1369047.62,3,3.6V,Typ. capacity - mAh,700,600,Li-ion,14430,Button top,"€1,369.05"
+Keeppower,60,16.95,10 @ 15.95 ,1384548.61,1,3.6V,Typ. capacity - mAh,3200,3150,Li-ion,18650,"Button top, USB","€1,384.55"
+Keeppower,18,5.75,10 @ 5.45  20 @ 5.25 ,1458333.33,2,3.6V,Typ. capacity - mAh,1000,950,Li-ion,14500,Button top,"€1,458.33"
+Keeppower,21,3.95,No Bulk price,1462962.96,0,3.6V,Typ. capacity - mAh,750,700,Li-ion,18350,Flat top,"€1,462.96"
+Nitecore,50,20.95,10 @ 19.95  100 @ 18.45 ,1464285.71,2,3.6V,Typ. capacity - mAh,3500,3450,Li-ion,18650,Button top,"€1,464.29"
+Nitecore,50,21.95,10 @ 19.95  20 @ 19.45  60 @ 18.45 ,1464285.71,3,3.6V,Typ. capacity - mAh,3500,3450,Li-ion,18650,"Button top, USB","€1,464.29"
+Keeppower,26,4.95,10 @ 4.75 ,1466049.38,1,3.6V,Typ. capacity - mAh,900,850,Li-ion,18350,Button top,"€1,466.05"
+Keeppower,26,6.75,10 @ 6.45 ,1493055.56,1,3.6V,Typ. capacity - mAh,1200,1100,Li-ion,18350,Button top,"€1,493.06"
+Nitecore,25,6.95,10 @ 6.25  100 @ 5.75 ,1879084.97,2,3.6V,Typ. capacity - mAh,850,800,Li-ion,14500,Button top,"€1,879.08"
+Olight,47,23.95,No Bulk price,1900793.65,0,3.6V,Typ. capacity - mAh,3500,3450,Li-ion,18650,Flat top,"€1,900.79"
+Xtar,19,5.25,10 @ 4.95  20 @ 4.75  100 @ 4.45 ,1901709.4,3,3.6V,Typ. capacity - mAh,650,600,Li-ion,16340 / 123A,Button top,"€1,901.71"
+Xcell,20,5.95,No Bulk price,2203703.7,0,3.6V,Typ. capacity - mAh,750,700,Li-ion,14500,Button top,"€2,203.70"
+Keeppower,80,11.45,10 @ 10.95 ,3578431.37,1,3.6V,Typ. capacity - mAh,850,800,Li-ion,16340 / 123A,"Button top, USB","€3,578.43"
+Panasonic,1,2.49,10 @ 2.25  100 @ 1.95 ,38235294.12,2,3V,Typ. capacity - mAh,17,Not found,Li-ion,1220,notFound,"€38,235.29"
