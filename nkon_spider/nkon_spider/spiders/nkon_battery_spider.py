@@ -176,8 +176,8 @@ class NkonLionSpider(scrapy.Spider):
     # settings = get_project_settings()
 
     # start_urls = ["https://eu.nkon.nl/rechargeable/lifepo4.html"]
-    # start_urls = ["https://eu.nkon.nl/rechargeable/li-ion.html", "https://eu.nkon.nl/rechargeable/lifepo4.html"]
-    start_urls = [ "https://eu.nkon.nl/rechargeable/lifepo4.html"]
+    start_urls = ["https://eu.nkon.nl/rechargeable/li-ion.html", "https://eu.nkon.nl/rechargeable/lifepo4.html"]
+    # start_urls = [ "https://eu.nkon.nl/rechargeable/lifepo4.html"]
     cur_url = None
 
     custom_settings = {
